@@ -17,8 +17,6 @@ Since I didn't want to go through it again with writing everything down on paper
 <img src="https://user-images.githubusercontent.com/51761671/63627083-3acb0d80-c606-11e9-9861-2ac659af2b45.jpg" height="600">
 Here you can see four buttons each leading to a page for a specific group.
 
----
-
 If you click the button on the bottom-right 
 
 <img src="https://user-images.githubusercontent.com/51761671/63627085-3acb0d80-c606-11e9-9a28-1fe9098ccd6a.jpg" height="600"> 
@@ -37,6 +35,8 @@ A menu pops up where you can either
 On this page every student in the chosen group will be displayed. By checking the box, failed students will also be shown.
 By pressing the button on the bottom-right, a new student can be added to this group if need be.
 By clicking on any name, you will get redirected to a page where all the student's tasks are shown.
+
+### The task view
 
 <img src="https://user-images.githubusercontent.com/51761671/63627081-3acb0d80-c606-11e9-9384-3bae2e559831.jpg" height="600">
 Here you can assign a comment to each task and tick off whether or not students were present and whether or not they passed the specific task.
