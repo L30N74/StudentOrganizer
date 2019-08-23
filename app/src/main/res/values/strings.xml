@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student Organizer</string>
+    <string name="main_ChooseGroup">Wähle die Gruppe, die du bearbeiten moechtest</string>
+    <string name="title_activity_group_view">GroupView</string>
+
+    <string name="groupName">Undefined</string>
+    <string name="title_activity_add_student">AddStudent</string>
+    <string name="title_activity_task_view">TaskView</string>
+
+    <string name="group_Import">Gruppe aus Excel-Datei importieren</string>
+
+    <!--TASKS-PAGE STRINGS-->
+    <string name="task_passed">Best.</string>
+    <string name="task_present">Anw.</string>
+    <string name="task_comment">Kommentar</string>
+    <string name="title_activity_excel_import">ExcelImportActivity</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_activity_change_group">changeGroupActivity</string>
+    <string name="title_activity_task_amount_setter">TaskAmountSetterActivity</string>
+
+</resources>
