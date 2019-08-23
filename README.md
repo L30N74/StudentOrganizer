@@ -33,12 +33,15 @@ A menu pops up where you can either
 ### The group view
 
 <img src="https://user-images.githubusercontent.com/51761671/63627080-3a327700-c606-11e9-9722-0c300b8a6df7.jpg" height="600">
+
 On this page every student in the chosen group will be displayed. By checking the box, failed students will also be shown.
 By pressing the button on the bottom-right, a new student can be added to this group if need be.
 By clicking on any name, you will get redirected to a page where all the student's tasks are shown.
+
 <img src="https://user-images.githubusercontent.com/51761671/63627081-3acb0d80-c606-11e9-9384-3bae2e559831.jpg" height="600">
 Here you can assign a comment to each task and tick off whether or not students were present and whether or not they passed the specific task.
 By pressing on the button on the bottom-right, another menu will appear
+
 <img src="https://user-images.githubusercontent.com/51761671/63627082-3acb0d80-c606-11e9-9226-545319b129ed.jpg" height="600">
 Where you can either
 
